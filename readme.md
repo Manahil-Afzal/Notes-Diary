@@ -47,7 +47,7 @@ GitHub Link: https://github.com/Manahil-Afzal/Notes-Diary
 
 ### Backend
 
-- NestJS
+- NestJS (Node framework)
 - TypeScript
 - Mongoose
 
