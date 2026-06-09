@@ -1,5 +1,5 @@
 
-# 📝 Notes App – Full Stack Notes Management System
+# 📝 Notes App – Full Stack Notes Application
 ### 𝐂𝐚𝐬𝐞 𝐒𝐭𝐮𝐝𝐲: Modern Next.js + NestJS Notes Application
 <img width="1900" height="830" alt="Screenshot 2026-06-09 014038" src="https://github.com/user-attachments/assets/f3970cea-442d-4309-94b0-562981cf0571" />
 
@@ -10,7 +10,7 @@
 ## 📌 Project Overview
 
 **Name:** Smart Notes App  
-**Type:** Full Stack Notes Management System  
+**Type:** Full Stack Notes Application
 
 The Notes App is a modern full-stack web application that allows users to create, edit, and delete color-coded notes in a clean and interactive user interface. Each note is stored in a database and persists across sessions, ensuring that users never lose their important information.
 
