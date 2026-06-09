@@ -1,4 +1,4 @@
-# 📝 Notes App – Full Stack Notes Management System
+# 📝 Notes App – Full Stack Notes Application
 ### 𝐂𝐚𝐬𝐞 𝐒𝐭𝐮𝐝𝐲: Modern Next.js + NestJS Notes Application
 
 ---
@@ -61,7 +61,7 @@ MongoDB Database
 ### Backend
 - NestJS (Node.js Framework)
 - TypeScript
-- Mongoose (MongoDB ODM)
+- Mongoose (MongoDB)
 
 ### Database
 - MongoDB Atlas / Local MongoDB
