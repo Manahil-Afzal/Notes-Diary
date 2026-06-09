@@ -37,21 +37,6 @@ GitHub Link: https://github.com/Manahil-Afzal/Notes-Diary
 
 ---
 
----
-
-## ✨ Key Features
-
-- Create new notes
-- Color-coded notes system
-- Edit note content
-- Delete notes instantly
-- Persistent MongoDB storage
-- Responsive mobile and desktop design
-- Fast UI updates without page reload
-- Clean and scalable architecture
-
----
-
 ## 🧠 Tech Stack
 
 ### Frontend
@@ -160,8 +145,21 @@ npm run start:dev
 
 ---
 
+## ✨ Key Features
+
+- Create new notes
+- Color-coded notes system
+- Edit note content
+- Delete notes instantly
+- Persistent MongoDB storage
+- Responsive mobile and desktop design
+- Fast UI updates without page reload
+- Clean and scalable architecture
+
+---
+
 ## 👩‍💻 Author
 
 **Manahil Afzal**
 
-Software Engineering Student | MERN Stack Developer | Exploring Full Stack Development with Next.js and NestJS.
+Software Engineering Student |  Exploring Full Stack Development with Next.js and NestJS.
